@@ -10,14 +10,14 @@ config_version=5
 
 [application]
 
-config/name="Projeto Jogo Teste"
-run/main_scene="res://node_2d.tscn"
+config/name="Scripts do Curso"
+run/main_scene="res://4_Variaveis.tscn"
 config/features=PackedStringArray("4.3", "GL Compatibility")
 config/icon="res://icon.svg"
 
 [dotnet]
 
-project/assembly_name="Projeto Jogo Teste"
+project/assembly_name="Scripts do Curso"
 
 [rendering]
 
